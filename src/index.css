@@ -1,0 +1,199 @@
+.content{
+    max-width: 1440px;
+    margin: 0 auto;
+    display: block;
+    font-family: 'Inconsolata', monospace;
+}
+
+.logo {
+    width: 120px;
+    height: 100px;
+    margin-left: 30px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+.header, .header2 {
+    background-color: #000000;
+    background-image: url("https://www.transparenttextures.com/patterns/asfalt-light.png");
+    color: white;
+}
+
+.menu {
+    background-color: #000000;
+    background-image: url("https://www.transparenttextures.com/patterns/asfalt-light.png");
+    color: white; 
+}
+
+.mobile {
+	display: none;
+}
+
+.menuItems {
+    list-style: none;
+    margin: 35px;
+    text-align: center;
+    margin-bottom: 50px;  
+}
+
+li {
+    display: inline;
+    padding: 25px;
+    font-size: 17px;;
+}
+
+li a {
+    text-decoration: none;
+    color: white;
+}
+
+li a:hover {
+    text-decoration: line-through;
+    color: white;
+    font-size: 27px;
+}
+
+.headerright {
+    float: right;
+}
+
+.headerleft, .headerright {
+    width: 280px;
+    
+}
+
+.headerheading {
+    font-size: 45px;
+    text-align: center;
+    margin-top: 170px;
+}
+
+.scroll {
+    text-align: center;
+
+  
+}
+
+h2 {
+    font-weight: bold;
+    font-size: 40px;
+}
+
+.btn1 {
+    border: none;
+    border-bottom: 4px solid black;
+    background-color: transparent;
+    font-size: 35px;
+    font-weight: bold;
+    margin-top: 25px;
+}
+
+.btn1:hover {
+    background-color: black;
+    color: #dfec11;
+    transition: ease-in-out 400ms;    
+}
+
+.center {
+    background-color: #dfec11;
+    padding: 120px;
+}
+
+.heading3 {
+    text-shadow: -3px 3px 0px #A3C1E7, -6px 6px 0px #E8331E;
+    color: #DFEC11;
+    background: transparent;
+    font-size: 46px;
+    padding-bottom: 10px;
+    padding-top: 80px;
+    font-weight: bold;
+}
+
+.heading4 {
+    font-size: 26px;
+    text-align: center;
+    font-weight: bold;
+}
+
+.info {
+    text-align: center;
+    font-size: 16px;
+    margin-bottom: 50px;
+}
+
+.help {
+    background-color: #000000;
+    background-image: url("https://www.transparenttextures.com/patterns/asfalt-light.png");
+    color: white;
+    padding-left: 120px;
+    padding-right: 120px;
+}
+
+.emoji {
+    margin: 0 auto;
+    display: block;
+    margin-top: 50px;
+    margin-bottom: 30px;
+}
+
+.heading5 {
+    font-size: 30px;
+    text-align: center;
+    font-weight: bold;
+    padding-top: 40px;
+    margin-bottom: 40px;
+}
+
+.fa-arrow-right{
+    color: black;
+    position: relative;
+    top: 3px;
+    font-size: 30px;
+}
+
+.fa-arrow-right:visited {
+    color: #DFEC11;
+}
+
+.fa-arrow-right:hover {
+    font-size: 40px;
+    color: #DFEC11;
+
+}
+
+.fa-arrow-right:active {
+    color: #DFEC11;
+  }
+
+.terms, .number, .tag, .mail {
+    text-align: center;
+    font-size: 16px;
+}
+
+.linkedin {
+    position: relative;
+    left: 260px;
+}
+
+.facebook {
+    position: relative;
+    left: 140px;
+}
+
+.linkedin, .facebook, .instagram {
+    margin-top: 30px;
+    margin-bottom: 40px;
+    font-size: 50px;
+    color: black;
+    text-align: center;
+}
+
+.linkedin:hover, .facebook:hover, .instagram:hover {
+    color: #DFEC11;
+    transition: 200ms all ease-in-out;
+}
+
+.footer {
+    border: 1px solid black;
+}
+

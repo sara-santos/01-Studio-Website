@@ -1,0 +1,160 @@
+.content{
+        max-width: 1440px;
+        margin: 0 auto;
+        display: block;
+        font-family: 'Inconsolata', monospace;
+    }
+    
+    .logo {
+        width: 90px;
+        height: 70px;
+        margin-left: 30px;
+        margin-top: 20px;
+        margin-bottom: 50px;
+    }
+    
+    .header {
+        background-color: #000000;
+        background-image: url("https://www.transparenttextures.com/patterns/asfalt-light.png");
+        color: white;
+    }
+    
+    .mobile {
+        display: none;
+    }
+    
+    .menuItems {
+        list-style: none;
+        margin: 35px;
+        text-align: center;
+        margin-bottom: 50px;   
+    }
+    
+    li {
+        display: inline;
+        padding: 25px;
+        font-size: 17px;;
+    }
+    
+    li a {
+        text-decoration: none;
+        color: white;
+    }
+    
+    li a:hover {
+        text-decoration: line-through;
+        color: white;
+        font-size: 27px;
+    }
+
+
+    .projects {
+        background-color: #000000;
+        background-image: url("https://www.transparenttextures.com/patterns/asfalt-light.png");
+        color: white;
+        padding-left: 120px;
+        padding-right: 120px;
+    }
+
+    .heading3 {
+        text-shadow: -3px 3px 0px #A3C1E7, -6px 6px 0px #E8331E;
+        color: #DFEC11;
+        background: transparent;
+        font-size: 46px;
+        padding-bottom: 10x;
+        font-weight: bold;
+    }
+
+    .work {
+        border: 2px solid white;
+        padding-top: 100px;
+        padding-bottom: 100px;
+    }
+
+    .heading4 {
+        font-size: 26px;
+        font-weight: bold;
+    }
+
+    .what {
+        font-size: 16px;
+        padding-bottom: 30px;
+    }
+
+    .workNext {
+        border: 2px solid white;
+        padding-top: 68px;
+        padding-bottom: 68px;
+    }
+
+    .whatNext {
+        text-align: center;
+    }
+
+    .p1 {
+        font-size: 16px;
+    }
+    
+    .heading5 {
+        font-size: 30px;
+        text-align: center;
+        font-weight: bold;
+        padding-top: 40px;
+        margin-bottom: 40px;
+    }
+    
+    .fa-arrow-right{
+        color: black;
+        position: relative;
+        top: 3px;
+        font-size: 30px;
+    }
+    
+    .fa-arrow-right:visited {
+        color: #DFEC11;
+    }
+    
+    .fa-arrow-right:hover {
+        font-size: 40px;
+        color: #DFEC11;
+    
+    }
+    
+    .fa-arrow-right:active {
+        color: #DFEC11;
+      }
+    
+    .terms, .number, .tag, .mail {
+        text-align: center;
+        font-size: 16px;
+    }
+
+    .linkedin {
+        position: relative;
+        left: 260px;
+    }
+    
+    .facebook {
+        position: relative;
+        left: 140px;
+    }
+    
+    .linkedin, .facebook, .instagram {
+        margin-top: 30px;
+        margin-bottom: 40px;
+        font-size: 50px;
+        color: black;
+        text-align: center;
+    }
+
+    .linkedin:hover, .facebook:hover, .instagram:hover {
+        color: #DFEC11;
+        transition: 200ms all ease-in-out;
+    }
+    
+    .footer {
+        border: 1px solid black;
+    }
+    
+    
+    

@@ -1,0 +1,187 @@
+.content{
+    max-width: 1440px;
+    margin: 0 auto;
+    display: block;
+    font-family: 'Inconsolata', monospace;
+}
+
+.logo {
+    width: 90px;
+    height: 70px;
+    margin-left: 30px;
+    margin-top: 20px;
+    margin-bottom: 50px;
+}
+
+.header, .header2 {
+    background-color: #000000;
+    background-image: url("https://www.transparenttextures.com/patterns/asfalt-light.png");
+    color: white;
+}
+
+.mobile {
+    display: none;
+}
+
+.menuItems {
+    list-style: none;
+    margin: 35px;
+    text-align: center;
+    margin-bottom: 50px;   
+}
+
+li {
+    display: inline;
+    padding: 25px;
+    font-size: 17px;;
+}
+
+li a {
+    text-decoration: none;
+    color: white;
+}
+li a:hover {
+    text-decoration: line-through;
+    color: white;
+    font-size: 27px;
+}
+
+.heading2 {
+    font-size: 36px;
+    font-weight: bold;
+    text-align: center;
+    margin-bottom: 50px;
+}
+
+.imgUs {
+    width: 60%;
+    display: block;
+    margin: 0 auto;
+    margin-bottom: 70px;
+}
+
+.row, .brunette {
+    margin-left: 0px;
+    margin-right: 0px;
+}
+
+.brunette {
+    padding-top: 60px;
+    padding-bottom: 60px;
+    background-color: #E8331E;
+    color: black;
+}
+
+.mob {
+    display: none;
+}
+
+.p2 {
+    margin-left: 80px;
+}
+
+.marta {
+    width: 120px;
+    display: block;
+    margin: 0 auto;
+}
+
+.heading3 {
+    font-size: 26px;
+    font-weight: bold;
+    text-align: center;
+}
+
+.heading4 {
+    font-size: 16px;
+    text-align: center;
+}
+
+.blonde {
+    padding-top: 60px;
+    padding-bottom: 60px;
+    background-color: #a3c1e7;
+    color: white;
+}
+
+
+.sara {
+    width: 130px;
+    display: block;
+    margin: 0 auto;
+}
+
+.heading3 {
+    font-size: 26px;
+    font-weight: bold;
+    text-align: center;
+}
+
+.heading4 {
+    font-size: 16px;
+    text-align: center;
+}
+
+.heading5 {
+    font-size: 30px;
+    text-align: center;
+    font-weight: bold;
+    padding-top: 40px;
+    margin-bottom: 40px;
+}
+
+.fa-arrow-right{
+    color: black;
+    position: relative;
+    top: 3px;
+    font-size: 30px;
+}
+
+.fa-arrow-right:visited {
+    color: #DFEC11;
+}
+
+.fa-arrow-right:hover {
+    font-size: 40px;
+    color: #DFEC11;
+
+}
+
+.fa-arrow-right:active {
+    color: #DFEC11;
+  }
+
+.terms, .number, .tag, .mail {
+    text-align: center;
+    font-size: 16px;
+}
+
+.linkedin {
+    position: relative;
+    left: 260px;
+}
+
+.facebook {
+    position: relative;
+    left: 140px;
+}
+
+
+.linkedin, .facebook, .instagram {
+    margin-top: 30px;
+    margin-bottom: 40px;
+    font-size: 50px;
+    color: black;
+    text-align: center;
+}
+
+.linkedin:hover, .facebook:hover, .instagram:hover {
+    color: #DFEC11;
+    transition: 200ms all ease-in-out;
+}
+
+.footer {
+    border: 1px solid black;
+}
+
+
